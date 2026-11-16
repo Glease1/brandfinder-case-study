@@ -64,6 +64,10 @@ The three rules that make the aggregate trustworthy:
 
 The honest sentence: *I can defend how the system decides and executes; I cannot defend an edge, because there isn't one.*
 
+![Shadow ledger and live decisions](screenshots/live-shadow-ledger.png)
+
+*The shadow ledger on a live instance: every position with its state, entry and exit, realised P&L and the reason it closed; and on the right, the new-token feed showing decisions as they happen — each rejection carrying the gate that rejected it. What is not shown is how any gate is calculated.*
+
 ## Read next
 
 - [Architecture](docs/ARCHITECTURE.md) — processes, control loop, position state, valuation ladder, durable tables
