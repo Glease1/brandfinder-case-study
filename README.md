@@ -4,7 +4,9 @@
 
 The source is private. This is the engineering write-up: the data sources, how the data is aggregated, the four execution planes, and the measurement that says the strategy does not work.
 
-![The four planes](planes.png)
+![Live canary overview](screenshots/live-canary-overview.png)
+
+*A live instance: real balance and stake, realised P&L across 176 trades, profit manually withdrawn and kept out of the book, the per-strategy scoreboard, and the shadow ledger beside the rejection feed. Thresholds, weights and entry logic are not shown.*
 
 ---
 
